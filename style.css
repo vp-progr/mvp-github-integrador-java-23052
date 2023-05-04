@@ -1,11 +1,10 @@
-.navbar {
-  z-index: 9999;
-}
-
 :root {
     --colorNaranja: #fd7e14
 }
 
+.navbar {
+  z-index: 9999;
+}
 
 nav div .navbar-nav a {
     color: var(--colorNaranja);
