@@ -1,3 +1,6 @@
+.navbar {
+  z-index: 9999;
+}
 
 :root {
     --colorNaranja: #fd7e14
